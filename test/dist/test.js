@@ -31,7 +31,7 @@ var negalucas = require( './../../dist' );
 
 // FIXTURES //
 
-var NEGALUCAS = require( './../../dist/negalucas.json' );
+var NEGALUCAS = require( './../../lib/negalucas.json' );
 
 
 // TESTS //

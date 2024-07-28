@@ -95,7 +95,7 @@ with seed values `L_0 = 2` and `L_{-1} = -1`.
 ## Usage
 
 ```javascript
-import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@esm/index.mjs';
+import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@v0.2.2-esm/index.mjs';
 ```
 
 #### negalucas( n )
@@ -165,7 +165,7 @@ var v = negalucas( NaN );
 <body>
 <script type="module">
 
-import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@esm/index.mjs';
+import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@v0.2.2-esm/index.mjs';
 
 var v;
 var i;

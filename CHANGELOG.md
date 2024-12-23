@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`c13062e`](https://github.com/stdlib-js/stdlib/commit/c13062e5b90cbe28ec62f0b690211bd14b626cf3) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
+-   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`6bbf2d6`](https://github.com/stdlib-js/stdlib/commit/6bbf2d67034e056190594bf2bceca4eb40a66b6f) - **style:** fix indentation _(by Philipp Burckhardt)_
 -   [`b0e68c5`](https://github.com/stdlib-js/stdlib/commit/b0e68c5bc8ee985794eb2ea1791c9337cd15fbd0) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`d8a4cfb`](https://github.com/stdlib-js/stdlib/commit/d8a4cfb578a949ed07c7a18749e48096f4f9b488) - **revert:** chore: update to modern benchmark Makefile _(by Philipp Burckhardt)_

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-27)
+## Unreleased (2025-11-06)
 
 <section class="reverts">
 
@@ -34,10 +34,11 @@
 
 <details>
 
+-   [`147344e`](https://github.com/stdlib-js/stdlib/commit/147344eb928314b046645fac287a6d96516c400d) - **chore:** add structured package data for `math/base/special/negalucas` [(#8401)](https://github.com/stdlib-js/stdlib/pull/8401) _(by Manvith M)_
 -   [`81f904d`](https://github.com/stdlib-js/stdlib/commit/81f904da25808197e2ae83ebf9c8b26860855e7c) - **bench:** fix failing C benchmarks by using `round` and `roundf` [(#7980)](https://github.com/stdlib-js/stdlib/pull/7980) _(by Gunj Joshi)_
 -   [`801494f`](https://github.com/stdlib-js/stdlib/commit/801494fbca7a4db22753f7417267502d98ba1b31) - **refactor:** modify C implementation to accept `double` value instead of `int32` in `math/base/special/negalucas` [(#7955)](https://github.com/stdlib-js/stdlib/pull/7955) _(by Gunj Joshi)_
 -   [`3425c5a`](https://github.com/stdlib-js/stdlib/commit/3425c5a231e90c72af55fc462e8aa18401a9ebdf) - **bench:** add missing `native.js` and fix variable range [(#6467)](https://github.com/stdlib-js/stdlib/pull/6467) _(by Karan Anand, stdlib-bot)_
--   [`e9f9513`](https://github.com/stdlib-js/stdlib/commit/e9f951387dd4387dc0a7b4acfadc59c5b2541736) - **bench:** update random value generation [(#6430)](https://github.com/stdlib-js/stdlib/pull/6430) _(by Harsh)_
+-   [`e9f9513`](https://github.com/stdlib-js/stdlib/commit/e9f951387dd4387dc0a7b4acfadc59c5b2541736) - **bench:** update random value generation [(#6430)](https://github.com/stdlib-js/stdlib/pull/6430) _(by Harsh Yadav)_
 -   [`c13062e`](https://github.com/stdlib-js/stdlib/commit/c13062e5b90cbe28ec62f0b690211bd14b626cf3) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`6bbf2d6`](https://github.com/stdlib-js/stdlib/commit/6bbf2d67034e056190594bf2bceca4eb40a66b6f) - **style:** fix indentation _(by Philipp Burckhardt)_
@@ -55,11 +56,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>

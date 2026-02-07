@@ -95,6 +95,11 @@ with seed values `L_0 = 2` and `L_{-1} = -1`.
 ## Usage
 
 ```javascript
+import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-negalucas/tags). For example,
+
+```javascript
 import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@v0.3.1-esm/index.mjs';
 ```
 
@@ -165,7 +170,7 @@ var v = negalucas( NaN );
 <body>
 <script type="module">
 
-import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@v0.3.1-esm/index.mjs';
+import negalucas from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-negalucas@esm/index.mjs';
 
 var v;
 var i;
